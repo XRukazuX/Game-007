@@ -1,13 +1,8 @@
 Hola ratas
 Vamos a practicar git
 Quiero dormir pero hay que farmear
-<<<<<<< HEAD
 a codiar carajo -by ian
 es lunes 10
-=======
 es hora de lovecratf 
-<<<<<<< HEAD
->>>>>>> b056be968cbd31a52b044a63df4405983b55928d
-=======
 ESTO ES CASPER
->>>>>>> Casper
+
